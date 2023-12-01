@@ -3,4 +3,4 @@
 ### `npm install`
 
 ### Second, execute command
-### `nodemon index`
+### `npm start`
